@@ -1,0 +1,304 @@
+{
+    "feed": [
+      {
+        "id": 1,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/neurovox1.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/neurovox1.jpg",
+        "aspectRatio": 1.779,
+        "description": "Vídeo novo no ar! Link nos Stories.",
+        "authorId": 2
+      },
+      {
+        "id": 2,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/neurovox2.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/neurovox2.jpg",
+        "aspectRatio": 1.233,
+        "description": "Durante a pandemia, exposição frequente às redes sociais aumenta em 75% as chances de sofrer com ansiedade.!",
+        "authorId": 2
+      },
+      {
+        "id": 3,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/microsoft1.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/microsoft1.jpg",
+        "aspectRatio": 1,
+        "description": "Reminiscing about our time in the trees!",
+        "authorId": 8
+      },
+      {
+        "id": 4,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/microsoft2.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/microsoft2.jpg",
+        "aspectRatio": 1,
+        "description": "Tap the ❤️ if you've ever used #MicrosoftWord.!",
+        "authorId": 8
+      },
+      {
+        "id": 5,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/thisisbillgates1.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/thisisbillgates1.jpg",
+        "aspectRatio": 1,
+        "description": "When Warren Buffett donated the bulk of his fortune to our foundation and joined us as a partner in its work, he urged us to “swing for the fences.” All these years later, that advice still guides how we think about our philanthropy. #TBT",
+        "authorId": 6
+      },
+      {
+        "id": 6,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/zuck1.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/zuck1.jpg",
+        "aspectRatio": 1,
+        "description": "Lots of good discussions at the Munich Security Conference and the EU Commission and Parliament in Brussels over the last few days",
+        "authorId": 7
+      },
+      {
+        "id": 7,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/edu.js.o1.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/edu.js.o1.jpg",
+        "aspectRatio": 1,
+        "description": "Aquela pequena reflexão necessária para o século dos influencers.",
+        "authorId": 14
+      },
+      {
+        "id": 8,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/impa_oficial1.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/impa_oficial1.jpg",
+        "aspectRatio": 1.67,
+        "description": "No blog Ciência & Matemática, o diretor-adjunto do IMPA Claudio Landim traz o primeiro boletim de Epidemiologia Matemática da Escola de Matemática Aplicada da Fundação Getúlio Vargas (FGV-EMAp). De acordo com as projeções, caso não haja lockdown no Brasil, o pico da epidemia deve ocorrer em 14 de julho.",
+        "authorId": 13
+      },
+      {
+        "id": 9,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/pedro.calabrez1.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/pedro.calabrez1.jpg",
+        "aspectRatio": 1,
+        "description": "Desejo uma semana equilibrada, com pitadas de seriedade e descontração, a todos vocês.",
+        "authorId": 12
+      },
+      {
+        "id": 10,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/pedro.calabrez2.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/pedro.calabrez2.jpg",
+        "aspectRatio": 1,
+        "description": "Se você tem a oportunidade e o privilégio, permanecer isolado continua sendo a recomendação científica que orienta o Ministério da Saúde. Apesar disso, o isolamento traz efeitos negativos sobre o cérebro, a mente e o comportamento. É sobre isso que falo no primeiro vídeo da série sobre a atual crise de saúde que vivemos. Acabamos de pública-lo no Canal NeuroVox no YouTube. Assiste lá e me conta o que você achou!",
+        "authorId": 12
+      },
+      {
+        "id": 11,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/pedro.calabrez3.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/pedro.calabrez3.jpg",
+        "aspectRatio": 1,
+        "description": "Permitir-se descansar é uma importante forma de autocuidado. Desejo um ótimo fim de semana a todos!!",
+        "authorId": 12
+      },
+      {
+        "id": 12,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/doppel.store1.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/doppel.store1.jpg",
+        "aspectRatio": 1,
+        "description": "Eu tenho um plano!",
+        "authorId": 4
+      },
+      {
+        "id": 13,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/doppel.store2.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/doppel.store2.jpg",
+        "aspectRatio": 1.27,
+        "description": "Você prefere ganhar 20 mil reais no final de um mês, ou 1 centavo no primeiro dia, 2 no segundo, 4 no terceiro, 8 no quarto e assim por diante?!",
+        "authorId": 4
+      },
+      {
+        "id": 14,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/pedro.calabrez2.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/pedro.calabrez2.jpg",
+        "aspectRatio": 1,
+        "description": "Se você tem a oportunidade e o privilégio, permanecer isolado continua sendo a recomendação científica que orienta o Ministério da Saúde. Apesar disso, o isolamento traz efeitos negativos sobre o cérebro, a mente e o comportamento. É sobre isso que falo no primeiro vídeo da série sobre a atual crise de saúde que vivemos. Acabamos de pública-lo no Canal NeuroVox no YouTube. Assiste lá e me conta o que você achou!",
+        "authorId": 12
+      },
+      {
+        "id": 15,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/zuck1.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/zuck1.jpg",
+        "aspectRatio": 1,
+        "description": "Lots of good discussions at the Munich Security Conference and the EU Commission and Parliament in Brussels over the last few days",
+        "authorId": 7
+      },
+      {
+        "id": 16,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/microsoft1.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/microsoft1.jpg",
+        "aspectRatio": 1,
+        "description": "Reminiscing about our time in the trees!",
+        "authorId": 8
+      },
+      {
+        "id": 17,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/edu.js.o1.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/edu.js.o1.jpg",
+        "aspectRatio": 1,
+        "description": "Aquela pequena reflexão necessária para o século dos influencers.",
+        "authorId": 14
+      },
+      {
+        "id": 18,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/pedro.calabrez3.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/pedro.calabrez3.jpg",
+        "aspectRatio": 1,
+        "description": "Permitir-se descansar é uma importante forma de autocuidado. Desejo um ótimo fim de semana a todos!!",
+        "authorId": 12
+      },
+      {
+        "id": 19,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/doppel.store1.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/doppel.store1.jpg",
+        "aspectRatio": 1,
+        "description": "Eu tenho um plano!",
+        "authorId": 4
+      },
+      {
+        "id": 20,
+        "image": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/thisisbillgates1.jpg",
+        "small": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/images/small/thisisbillgates1.jpg",
+        "aspectRatio": 1,
+        "description": "When Warren Buffett donated the bulk of his fortune to our foundation and joined us as a partner in its work, he urged us to “swing for the fences.” All these years later, that advice still guides how we think about our philanthropy. #TBT",
+        "authorId": 6
+      }
+    ],
+    "authors": [
+      {
+        "id": 1,
+        "name": "umsabadoqualquer",
+        "online": false,
+        "avatar": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/avatars/umsabadoqualquer.jpg"
+      },
+      {
+        "id": 2,
+        "name": "neurovox",
+        "online": false,
+        "avatar": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/avatars/neurovox.jpg"
+      },
+      {
+        "id": 3,
+        "name": "brunnosarttori",
+        "online": true,
+        "avatar": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/avatars/brunnosarttori.jpg"
+      },
+      {
+        "id": 4,
+        "name": "doppel.store",
+        "online": false,
+        "avatar": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/avatars/doppel.store.jpg"
+      },
+      {
+        "id": 5,
+        "name": "jornalsensacionalista",
+        "online": true,
+        "avatar": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/avatars/jornalsensacionalista.jpg"
+      },
+      {
+        "id": 6,
+        "name": "thisisbillgates",
+        "online": false,
+        "avatar": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/avatars/thisisbillgates.jpg"
+      },
+      {
+        "id": 7,
+        "name": "zuck",
+        "online": false,
+        "avatar": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/avatars/zuck.jpg"
+      },
+      {
+        "id": 8,
+        "name": "microsoft",
+        "online": false,
+        "avatar": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/avatars/microsoft.jpg"
+      },
+      {
+        "id": 9,
+        "name": "akitaonrails",
+        "online": false,
+        "avatar": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/avatars/akitaonrails.jpg"
+      },
+      {
+        "id": 10,
+        "name": "rocketseat",
+        "online": false,
+        "avatar": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/avatars/rocketseat.jpg"
+      },
+      {
+        "id": 11,
+        "name": "oatila",
+        "online": false,
+        "avatar": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/avatars/oatila.jpg"
+      },
+      {
+        "id": 12,
+        "name": "pedro.calabrez",
+        "online": false,
+        "avatar": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/avatars/pedro.calabrez.jpg"
+      },
+      {
+        "id": 13,
+        "name": "impa_oficial",
+        "online": false,
+        "avatar": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/avatars/impa_oficial.jpg"
+      },
+      {
+        "id": 14,
+        "name": "edu.js.o",
+        "online": false,
+        "avatar": "https://raw.githubusercontent.com/EduardoJM/rn-expo-instagram-clone/data/avatars/edu.js.o.jpg"
+      }
+    ],
+    "directs": [
+      {
+        "id": 1,
+        "authorId": 1
+      },
+      {
+        "id": 2,
+        "authorId": 5
+      },
+      {
+        "id": 3,
+        "authorId": 4
+      },
+      {
+        "id": 4,
+        "authorId": 3
+      },
+      {
+        "id": 5,
+        "authorId": 2
+      },
+      {
+        "id": 6,
+        "authorId": 7
+      },
+      {
+        "id": 7,
+        "authorId": 6
+      },
+      {
+        "id": 8,
+        "authorId": 9
+      },
+      {
+        "id": 9,
+        "authorId": 8
+      },
+      {
+        "id": 10,
+        "authorId": 11
+      },
+      {
+        "id": 11,
+        "authorId": 10
+      },
+      {
+        "id": 12,
+        "authorId": 12
+      },
+      {
+        "id": 13,
+        "authorId": 13
+      }
+    ]
+  }
